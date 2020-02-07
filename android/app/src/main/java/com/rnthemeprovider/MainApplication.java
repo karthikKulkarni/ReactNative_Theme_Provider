@@ -1,4 +1,4 @@
-package com.rntsesprettier;
+package com.rnthemeprovider;
 
 import android.app.Application;
 import android.content.Context;
