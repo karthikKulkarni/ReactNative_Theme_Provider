@@ -17,6 +17,7 @@
     "postinstall": "npx jetify"
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.7.1",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
